@@ -58,7 +58,10 @@ A complete walkthrough of the application is available here:
 
 ▶️ [Click to Watch Demo](https://drive.google.com/file/d/19RBOM_6IZ6zwnXqgEd2xcqaGdnNVDEng_wjsWttb7LI/preview)
 
+
 ## 🚀 Live Demo
+
+🌍 **Try the App:**  
 
 🔗 https://explore-with-ai-custom-itineraries-for-your-next-journey-6cyay.streamlit.app/
 
